@@ -1,0 +1,12 @@
+name: My_Most_Basic_Theme
+type: theme
+description: 'A theme where nothing ever happens.'
+core: 8.x
+libraries:
+  - My_Most_Basic_Theme/global-styling
+base theme: classy
+screenshot: Doug%20guitar.jpg
+regions:
+  header: Header
+  content: Content
+  footer: Footer

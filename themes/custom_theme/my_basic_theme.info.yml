@@ -5,7 +5,7 @@ core: 8.x
 libraries:
   - My_Most_Basic_Theme/global-styling
 base theme: classy
-screenshot: Doug%20guitar.jpg
+screenshot: Doug_guitar.jpg
 regions:
   header: Header
   content: Content

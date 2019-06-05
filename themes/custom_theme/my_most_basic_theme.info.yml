@@ -1,0 +1,10 @@
+name: My Most Basic Theme
+type: theme
+description: 'A theme where nothing ever happens.'
+core: 8.x
+base theme: classy
+screenshot: Doug%20guitar.jpg
+regions:
+  header: Header
+  content: Content
+  footer: Footer
